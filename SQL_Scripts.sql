@@ -13,7 +13,7 @@ CREATE TABLE cafes (
 
 INSERT INTO cafes VALUES
 (1, 'Brew & Bean', 'Ali Khan', 'ali@brewbean.com', '03001234567', '123 Main Street', 'Lahore'),
-(2, 'Café Aroma', 'Sara Iqbal', 'sara@aroma.pk', '03111234567', '456 Central Plaza', 'Karachi'),
+(2, 'CafÃ© Aroma', 'Sara Iqbal', 'sara@aroma.pk', '03111234567', '456 Central Plaza', 'Karachi'),
 (3, 'Chai Shai', 'Bilal Mehmood', 'bilal@chaishai.pk', '03211231234', '78 Mall Road', 'Islamabad'),
 (4, 'Coffee Corner', 'Zara Khalid', 'zara@coffeecorner.pk', '03451234567', '19 Gulberg', 'Lahore'),
 (5, 'Tea Time', 'Naveed Aslam', 'naveed@teatime.pk', '03551231234', '88 Liberty Market', 'Lahore'),
